@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\A3Ftest;
+namespace App\Parser;
 
 
 interface HTML_parser_interface
