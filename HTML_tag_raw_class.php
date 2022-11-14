@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\A3Ftest;
+namespace App\Parser;
 
 
 class HTML_tag_raw_class extends HTML_class
