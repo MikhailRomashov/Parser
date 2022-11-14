@@ -1,7 +1,7 @@
 <?php
-namespace App\A3Ftest;
+namespace App\Parser;
 
-require_once 'C:\Users\michel\PhpstormProjects\A3Ftest-laravel\itproger\vendor\autoload.php';
+require_once 'C:\Users\michel\PhpstormProjects\parser-symfony\my_project_directory\vendor\autoload.php';
 
 
 $parser = new HTML_tag_parser_class();
