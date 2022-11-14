@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\A3Ftest;
+namespace App\Parser;
 use Exception;
 use Psr\Cache\CacheItemPoolInterface;
 use Psr\Log\LoggerInterface;
